@@ -17,7 +17,7 @@ namespace Jenkins.MVC.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "刁民";
+            ViewData["Message"] = "这就是了";
 
             return View();
         }
