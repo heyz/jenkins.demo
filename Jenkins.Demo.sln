@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins.MVC", "Jenkins.MVC\Jenkins.MVC.csproj", "{A79DF692-D35B-41C6-BAAA-EBF0E903EE2A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins.MVC.Demo", "Jenkins.MVC.Demo\Jenkins.MVC.Demo.csproj", "{1E71E063-2374-4F78-89FC-A7C2913BDA05}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins.MVC", "Jenkins.MVC\Jenkins.MVC.csproj", "{7E2E4AF8-C427-4CEC-9CA5-6224B7D4BBD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A79DF692-D35B-41C6-BAAA-EBF0E903EE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A79DF692-D35B-41C6-BAAA-EBF0E903EE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A79DF692-D35B-41C6-BAAA-EBF0E903EE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A79DF692-D35B-41C6-BAAA-EBF0E903EE2A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E71E063-2374-4F78-89FC-A7C2913BDA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E71E063-2374-4F78-89FC-A7C2913BDA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E71E063-2374-4F78-89FC-A7C2913BDA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E71E063-2374-4F78-89FC-A7C2913BDA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2E4AF8-C427-4CEC-9CA5-6224B7D4BBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2E4AF8-C427-4CEC-9CA5-6224B7D4BBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2E4AF8-C427-4CEC-9CA5-6224B7D4BBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2E4AF8-C427-4CEC-9CA5-6224B7D4BBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
